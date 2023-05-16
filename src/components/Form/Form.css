@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  justify-content: center;
+  margin: 80px 0;
+}
+
+.form form {
+  max-width: 80%;
+  background-color: #F7F7F7;
+  padding: 36px 95px;
+  border-radius: 20px;
+  box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.08);
+}
+
+.form h2 {
+  font-family: 'Prata';
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 43px;
+  color: #212121;
+}
